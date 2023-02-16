@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Lightweight and High-Fidelity End-to-End Text-to-Speech with Multi-Band Generation and Inverse Short-Time Fourier Transform"
-summary: "Submitted to [ICASSP 2023](https://2023.ieeeicassp.org/)"
+summary: "Accepted to [ICASSP 2023](https://2023.ieeeicassp.org/)"
 authors:
 - Masaya Kawamura1
 - Yuma Shirahata

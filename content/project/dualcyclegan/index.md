@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Non-parallel High-Quality Audio Super Resolution with Domain Adaptation and Resampling CycleGANs"
-summary: "Submitted to [ICASSP 2023](https://2023.ieeeicassp.org/)"
+summary: "Accepted to [ICASSP 2023](https://2023.ieeeicassp.org/)"
 authors:
 - Reo Yoneyama
 - admin

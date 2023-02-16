@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Period VITS: Variational Inference With Explicit Pitch Modeling For End-to-End Emotional Speech Synthesis"
-summary: "Submitted to [ICASSP 2023](https://2023.ieeeicassp.org/)"
+summary: "Accepted to [ICASSP 2023](https://2023.ieeeicassp.org/)"
 authors:
 - Yuma Shirahata
 - admin

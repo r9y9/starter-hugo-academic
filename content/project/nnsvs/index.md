@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "NNSVS: A Neural Network-Based Singing Voice Synthesis Toolkit"
-summary: "Submitted to [ICASSP 2023](https://2023.ieeeicassp.org/)"
+summary: "Accepted to [ICASSP 2023](https://2023.ieeeicassp.org/)"
 authors:
 - admin
 - Reo Yoneyama
