@@ -64,6 +64,8 @@ Preprint: [arXiv:2210.15987](https://arxiv.org/abs/2210.15987) (Submitted to [IC
 - [Bonus samples](#bonus-samples)
   - [Japanese](#japanese)
   - [Mandarin](#mandarin)
+- [Error cases](#error-cases)
+  - [Unstable pitch of DiffSinger](#unstable-pitch-of-diffsinger)
 - [Acknowledgments](#acknowledgments)
 - [Appendix](#appendix)
   - [Note pitch distribution](#note-pitch-distribution)
@@ -71,6 +73,7 @@ Preprint: [arXiv:2210.15987](https://arxiv.org/abs/2210.15987) (Submitted to [IC
 
 ## Updates
 
+- 2023/02/27: Added error cases to address reviewer's comments. See [Error cases](#error-cases).
 - 2022/11/27: Added samples of diffusion-based acoustic models. See [Bonus samples](#bonus-samples).
 - 2022/10/18: Created the demo page.
 
@@ -427,6 +430,22 @@ We provide Mandarin SVS samples using [Opencpop database](https://wenet.org.cn/o
 <td><audio controls=""><source src="/audio/202211_nnsvs/SVS_opencpop/[Test05]-NNSVS-Mel v5.wav" type="audio/wav"></audio></td>
 </tr></tbody></table>
 
+## Error cases
+
+### Unstable pitch of DiffSinger
+
+<div align="center"><img src="/images/nnsvs/error_diffsinger_unstable_pitch.png" width="100%" /></div>
+
+<table><thead>
+<tr><th>DiffSinger</th><th>Recording</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><audio controls=""><source src="/audio/202210_nnsvs/SVS/[Test05]-DiffSinger.wav" type="audio/wav"></audio></td>
+<td><audio controls=""><source src="/audio/202210_nnsvs/SVS/[Test05]-Recording.wav" type="audio/wav"></audio></td>
+</tr></tbody></table>
+
+As shown in the figure (blue: discontinous F0; green: unstable vibrato), the pitch contour of the DiffSinger is sometimes unstable.
 
 ## Acknowledgments
 
