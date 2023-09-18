@@ -7,11 +7,14 @@ authors:
 - Reo Yoneyama
 - admin
 - Kentaro Tachibana
+author_notes:
+- "Work done during an internship at LINE corporation"
 tags:
 - Super resolution
 - Python
 - Deep Learning
 - Open-Source
+- ICASSP
 date: 2022-10-18T21:17:44+09:00
 
 # Optional external URL for project (replaces project detail page).
