@@ -10,8 +10,8 @@ role: Engineer/Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: LINE Corporaiton
-  url: https://engineering.linecorp.com/en/research/
+- name: LY Corporaiton
+  url: https://www.lycorp.co.jp/en/
 - name: Nagoya University
   url: https://www.toda.is.i.nagoya-u.ac.jp/
 
@@ -69,7 +69,7 @@ email: zryuichi@gmail.com
 highlight_name: true
 ---
 
-I am a software engineer / researcher at [LINE Corporation](https://engineering.linecorp.com/en/research/).
+I am a software engineer / researcher at [LY Corporation](https://research.lycorp.co.jp/en).
 I am also a Ph.D. student at at Nagoya University, working with my advisor [Prof. Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng?authuser=0) at the [Toda Laboratory](https://www.toda.is.i.nagoya-u.ac.jp/).
 
 My research interests include statistical speech synthesis, voice conversion, singing voice synthesis, and machine learning.
