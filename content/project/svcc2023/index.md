@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A Comparative Study of Voice Conversion Models with Large-Scale Speech and Singing Data: The Nagoya University Systems for the Singing Voice Conversion Challenge 2023"
+title: "A Comparative Study of Voice Conversion Models with Large-Scale Speech and Singing Data: The T13 Systems for the Singing Voice Conversion Challenge 2023"
 summary: "Accepted to [ASRU 2023](http://asru2023.org/)"
 authors:
 - admin
