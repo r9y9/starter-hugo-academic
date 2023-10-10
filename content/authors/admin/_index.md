@@ -43,21 +43,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:zryuichi@gmail.com'
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:zryuichi@gmail.com'
+- icon: github
+  icon_pack: fab
+  link: https://github.com/r9y9
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/r9y9
-# - icon: github
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.jp/citations?user=PpjbClsAAAAJ&hl=en
+# - icon: linkedin
 #   icon_pack: fab
-#   link: https://github.com/r9y9
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.jp/citations?user=PpjbClsAAAAJ&hl=en
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/zryuichi/
+#   link: https://www.linkedin.com/in/zryuichi/
 # - icon: cv
 #   icon_pack: ai
 #   link: https://github.com/r9y9/cv/blob/gh-pages/ryuichi_cv.pdf
@@ -72,8 +72,7 @@ highlight_name: true
 I am a software engineer / researcher at [LY Corporation](https://research.lycorp.co.jp/en).
 I am also a Ph.D. student at at Nagoya University, working with my advisor [Prof. Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng?authuser=0) at the [Toda Laboratory](https://www.toda.is.i.nagoya-u.ac.jp/).
 
-My research interests include statistical speech synthesis, voice conversion, singing voice synthesis, and machine learning.
-Before joining LINE Corporation, I worked in music signal processsing, music information retrieval, and computer vision.
+I enjoy both research and software development. My research interests include statistical speech synthesis, voice conversion, singing voice synthesis, and machine learning. Before joining LY Corporation (formerly known as LINE Corporation), I worked in music signal processing, music information retrieval, and computer vision.
 
 - {{< icon name="github" pack="fab" >}} {{< staticref "https://github.com/r9y9" "newtab" >}}GitHub{{< /staticref >}}
 - {{< icon name="google-scholar" pack="ai" >}} {{< staticref "https://scholar.google.co.jp/citations?user=PpjbClsAAAAJ&hl=en" "newtab" >}}Google Scholar{{< /staticref >}}
