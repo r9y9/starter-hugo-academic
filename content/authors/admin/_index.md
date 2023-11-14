@@ -16,14 +16,15 @@ organizations:
   url: https://www.toda.is.i.nagoya-u.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a software engineer / researcher passionate about speech synthesis. I love to write code and enjoy open-source collaboration on GitHub. Please feel free to reach out on Twitter and GitHub.
+bio: I am a engineer/researcher passionate about speech synthesis. I love to write code and enjoy open-source collaboration on GitHub. Please feel free to reach out on Twitter and GitHub.
 # My research interests include speech synthesis, voice conversion, and machine learning.
 
 # Interests to show in About widget
 interests:
 - Speech Synthesis
 - Voice Conversion
-- Generative Models
+- Machine Learning
+- Singing Voice Synthesis
 
 # Education to show in About widget
 education:
@@ -55,9 +56,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.jp/citations?user=PpjbClsAAAAJ&hl=en
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/zryuichi/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/zryuichi/
 # - icon: cv
 #   icon_pack: ai
 #   link: https://github.com/r9y9/cv/blob/gh-pages/ryuichi_cv.pdf
@@ -69,7 +70,7 @@ email: zryuichi@gmail.com
 highlight_name: true
 ---
 
-I am a software engineer / researcher at [LY Corporation](https://research.lycorp.co.jp/en).
+A software engineer/researcher at [LY Corporation](https://research.lycorp.co.jp/en).
 I am also a Ph.D. student at at Nagoya University, working with my advisor [Prof. Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng?authuser=0) at the [Toda Laboratory](https://www.toda.is.i.nagoya-u.ac.jp/).
 
 I enjoy both research and software development. My research interests include statistical speech synthesis, voice conversion, singing voice synthesis, and machine learning. Before joining LY Corporation (formerly known as LINE Corporation), I worked in music signal processing, music information retrieval, and computer vision.
