@@ -1,25 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "PromptTTS++: Controlling Speaker Identity in Prompt-based Text-to-Speech using Natural Language Descriptions"
+title: "Enhancing Multilingual TTS with Voice Conversion based Data Augmentation and Posterior Embedding"
 summary: "Accepted to [ICASSP 2024](https://2024.ieeeicassp.org/)"
 authors:
-- Reo Shimizu
+- Hyun-Wook Yoon
+- Jin-Seob Kim
 - admin
-- Masaya Kawamura
-- Yuma Shirahata
-- Hironori Doi
-- Tatsuya Komatsu
-- Kentaro Tachibana
-author_notes:
-- "Work done during an internship at LINE corporation"
+- Ryo Terashima
+- Chan-Ho Song
+- Jae-Min Kim
+- Eunwoo Song
 tags:
 - Deep Learning
 - TTS
-date: 2023-12-24T12:00:00+09:00
+- VC
+categories: []
+date: 2023-12-24T11:57:59+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://reppy4620.github.io/demo.promptttspp/"
+external_link: "https://christophyoon.github.io/MMV-TTS/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

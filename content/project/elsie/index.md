@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Electrolaryngeal Speech Intelligibility Enhancement Through Robust Linguistic Encoders"
-summary: "Submitted to [ICASSP 2024](https://2024.ieeeicassp.org/)"
+summary: "Accepted to [ICASSP 2024](https://2024.ieeeicassp.org/)"
 authors:
 - Lester Phillip Violeta1
 - Wen-Chin Huang
@@ -13,7 +13,7 @@ authors:
 tags:
 - Deep Learning
 - VC
-date: 2023-09-18T08:00:00+09:00
+date: 2023-12-24T08:00:00+09:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://lesterphillip.github.io/icassp2024_el_sie/"
