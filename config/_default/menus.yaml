@@ -13,9 +13,9 @@ main:
   - name: Posts
     url: '#posts'
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 40
   # - name: CV
   #   url: 'https://github.com/r9y9/cv/blob/gh-pages/ryuichi_cv.pdf'
   #   weight: 90
