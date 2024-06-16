@@ -9,35 +9,35 @@ superuser: true
 role: Engineer/Researcher
 
 # Organizations/Affiliations to show in About widget
-# organizations:
-# - name: LY Corporaiton
-#   url: https://www.lycorp.co.jp/en/
-# - name: Nagoya University
-#   url: https://www.toda.is.i.nagoya-u.ac.jp/
+organizations:
+- name: LY Corporaiton
+  url: https://www.lycorp.co.jp/en/
+- name: Nagoya University
+  url: https://www.toda.is.i.nagoya-u.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a engineer/researcher passionate about speech synthesis. I love to write code and enjoy open-source collaboration on GitHub. Please feel free to reach out on Twitter and GitHub.
 # My research interests include speech synthesis, voice conversion, and machine learning.
 
 # Interests to show in About widget
-# interests:
-# - Speech Synthesis
-# - Voice Conversion
-# - Machine Learning
-# - Singing Voice Synthesis
+interests:
+- Speech Synthesis
+- Voice Conversion
+- Machine Learning
+- Singing Voice Synthesis
 
 # Education to show in About widget
-# education:
-#   courses:
-#   - course: Ph.D course in Informatics
-#     institution: Nagoya University
-#     year: April 2022 -
-#   - course: M.Eng in Compute Science
-#     institution: Nagoya Institude of Technology
-#     year: 2013
-#   - course: B.Eng in Computer Science
-#     institution: Nagoya Institude of Technology
-#     year: 2011
+education:
+  courses:
+  - course: Ph.D course in Informatics
+    institution: Nagoya University
+    year: April 2022 -
+  - course: M.Eng in Compute Science
+    institution: Nagoya Institude of Technology
+    year: 2013
+  - course: B.Eng in Computer Science
+    institution: Nagoya Institude of Technology
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
