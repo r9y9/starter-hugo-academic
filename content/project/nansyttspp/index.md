@@ -45,7 +45,7 @@ url_video: ""
 slides: ""
 ---
 
-Submitted to [ICASSP 2025](https://2025.ieeeicassp.org/)
+Preprint: [arXiv:2409.17452](https://arxiv.org/abs/2409.17452) (Submitted to [ICASSP 2025](https://2025.ieeeicassp.org/))
 
 - [Abstract](#abstract)
 - [Figure](#figure)
