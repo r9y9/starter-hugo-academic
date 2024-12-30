@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Description-based Controllable Text-to-Speech with Cross-Lingual Voice Control"
-summary: "Submitted to ICASSP 2025"
+summary: "Accepted to ICASSP 2025"
 authors:
 - admin
 - Yuma Shirahata
@@ -45,7 +45,7 @@ url_video: ""
 slides: ""
 ---
 
-Preprint: [arXiv:2409.17452](https://arxiv.org/abs/2409.17452) (Submitted to [ICASSP 2025](https://2025.ieeeicassp.org/))
+Preprint: [arXiv:2409.17452](https://arxiv.org/abs/2409.17452) (Accepted to [ICASSP 2025](https://2025.ieeeicassp.org/))
 
 - [Abstract](#abstract)
 - [Figure](#figure)
